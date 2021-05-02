@@ -68,7 +68,8 @@ sr.reveal('.skills__img', {delay: 400})
 
 /*SCROLL PORTFOLIO*/
 sr.reveal('.portfolio__img', {interval: 200})
-
+/*CHAT BOT*/
+<script>(function(w, d) { w.CollectId = "608f0aa77a73a543539f1440"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
 /*SCROLL CONTACT*/
 sr.reveal('.contact__subtitle', {})
 sr.reveal('.contact__text', {interval: 200})
